@@ -1,0 +1,39 @@
+name: Tribal RFP Scraper
+
+# When the scraper runs.
+on:
+  schedule:
+    # 11:00 UTC daily = 6:00 AM US Central. Adjust if you like.
+    - cron: '0 11 * * *'
+  workflow_dispatch: {}   # adds a "Run workflow" button on the Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # lets the job commit the new data files back
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python run.py
+
+      - name: Commit the results
+        run: |
+          git config user.name "rfp-scraper-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --quiet --cached || git commit -m "RFP scrape $(date -u +%Y-%m-%d)"
+          git push

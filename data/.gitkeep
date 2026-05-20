@@ -1,0 +1,2 @@
+# This file just keeps the empty data/ folder in git.
+# The scraper writes new_rfps.csv, all_rfps.csv, seen.json, and run_log.txt here.
