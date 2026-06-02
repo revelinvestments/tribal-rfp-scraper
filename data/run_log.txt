@@ -1,20 +1,20 @@
-Run at 2026-06-01T22:24:16
+Run at 2026-06-02T21:40:45
 Tribes scraped: 35
-Total solicitations found: 81
-New since last run: 7
+Total solicitations found: 79
+New since last run: 5
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
-Bay Mills Indian Community: 1 found
+Bay Mills Indian Community: 2 found
 Grand Traverse Band of Ottawa and Chippewa Indians: 0 found
 Hannahville Indian Community: 0 found
 Keweenaw Bay Indian Community: 3 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
 Little River Band of Ottawa Indians: 3 found
-Little Traverse Bay Bands of Odawa Indians: 3 found
+Little Traverse Bay Bands of Odawa Indians: 2 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 2 found
-Saginaw Chippewa Indian Tribe of Michigan: 7 found
+Saginaw Chippewa Indian Tribe of Michigan: 8 found
 Sault Ste. Marie Tribe of Chippewa Indians: EXTRACT ERROR - could not parse JSON from the model response
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 5 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
@@ -22,19 +22,19 @@ Fond du Lac Band of Minnesota Chippewa Tribe: 0 found
 Grand Portage Band of Minnesota Chippewa Tribe: 1 found
 Leech Lake Band of Ojibwe: 1 found
 Lower Sioux Indian Community in Minnesota: 1 found
-Mille Lacs Band of Ojibwe: 10 found
+Mille Lacs Band of Ojibwe: 8 found
 Prairie Island Indian Community: 7 found
 Red Lake Band of Chippewa Indians: 1 found
 Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
 White Earth Band of Minnesota Chippewa Tribe: 0 found
-Bad River Band of the Lake Superior Tribe of Chippewa Indians: 7 found
+Bad River Band of the Lake Superior Tribe of Chippewa Indians: 6 found
 Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 3 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 2 found
 Lac du Flambeau Band of Lake Superior Chippewa: 1 found
-Menominee Indian Tribe of Wisconsin: 6 found
-Oneida Nation of Wisconsin: 4 found
+Menominee Indian Tribe of Wisconsin: 10 found
+Oneida Nation of Wisconsin: FETCH FAIL - HTTP 403
 Red Cliff Band of Lake Superior Chippewa: 7 found
 Sokaogon Chippewa Community (Mole Lake): 2 found
 St. Croix Chippewa Indians of Wisconsin: 0 found
