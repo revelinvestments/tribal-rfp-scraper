@@ -1,20 +1,20 @@
-Run at 2026-06-20T16:08:43
+Run at 2026-06-21T13:07:04
 Tribes scraped: 35
-Total solicitations found: 69
+Total solicitations found: 67
 New since last run: 1
 
-Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): FETCH FAIL - HTTP 403
+Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
 Grand Traverse Band of Ottawa and Chippewa Indians: 0 found
 Hannahville Indian Community: FETCH FAIL - HTTPSConnectionPool(host='hannahville.net', port=443): Read timed out. (read timeout=30)
-Keweenaw Bay Indian Community: 3 found
+Keweenaw Bay Indian Community: 4 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
 Little River Band of Ottawa Indians: 3 found
-Little Traverse Bay Bands of Odawa Indians: 5 found
+Little Traverse Bay Bands of Odawa Indians: 6 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 2 found
-Saginaw Chippewa Indian Tribe of Michigan: 9 found
+Saginaw Chippewa Indian Tribe of Michigan: 7 found
 Sault Ste. Marie Tribe of Chippewa Indians: EXTRACT ERROR - could not parse JSON from the model response
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 5 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
@@ -28,13 +28,13 @@ Red Lake Band of Chippewa Indians: 1 found
 Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
 White Earth Band of Minnesota Chippewa Tribe: 0 found
-Bad River Band of the Lake Superior Tribe of Chippewa Indians: 5 found
-Forest County Potawatomi Community: 0 found
+Bad River Band of the Lake Superior Tribe of Chippewa Indians: 8 found
+Forest County Potawatomi Community: FETCH FAIL - HTTPSConnectionPool(host='www.fcpotawatomi.com', port=443): Max retries exceeded with url: /government/purchasing/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fcpotawatomi.com', port=443) at 0x7f00a1fb5070>, 'Connection to www.fcpotawatomi.com timed out. (connect timeout=30)'))
 Ho-Chunk Nation: 2 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 2 found
 Lac du Flambeau Band of Lake Superior Chippewa: 1 found
-Menominee Indian Tribe of Wisconsin: 6 found
-Oneida Nation of Wisconsin: FETCH FAIL - HTTP 403
+Menominee Indian Tribe of Wisconsin: FETCH FAIL - HTTPSConnectionPool(host='www.menominee-nsn.gov', port=443): Max retries exceeded with url: /BusinessPages/RequestForProposals (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.menominee-nsn.gov', port=443) at 0x7f00a1c219d0>, 'Connection to www.menominee-nsn.gov timed out. (connect timeout=30)'))
+Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
 Red Cliff Band of Lake Superior Chippewa: 7 found
 Sokaogon Chippewa Community (Mole Lake): 3 found
 St. Croix Chippewa Indians of Wisconsin: 0 found
