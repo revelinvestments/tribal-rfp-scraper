@@ -1,7 +1,7 @@
-Run at 2026-06-22T15:51:43
+Run at 2026-06-23T13:46:13
 Tribes scraped: 35
-Total solicitations found: 70
-New since last run: 2
+Total solicitations found: 63
+New since last run: 0
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
@@ -14,7 +14,7 @@ Little Traverse Bay Bands of Odawa Indians: 5 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 2 found
-Saginaw Chippewa Indian Tribe of Michigan: 7 found
+Saginaw Chippewa Indian Tribe of Michigan: 8 found
 Sault Ste. Marie Tribe of Chippewa Indians: EXTRACT ERROR - could not parse JSON from the model response
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 5 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
@@ -28,14 +28,14 @@ Red Lake Band of Chippewa Indians: 1 found
 Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
 White Earth Band of Minnesota Chippewa Tribe: 0 found
-Bad River Band of the Lake Superior Tribe of Chippewa Indians: 8 found
+Bad River Band of the Lake Superior Tribe of Chippewa Indians: 7 found
 Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 2 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 2 found
 Lac du Flambeau Band of Lake Superior Chippewa: 1 found
-Menominee Indian Tribe of Wisconsin: 6 found
-Oneida Nation of Wisconsin: FETCH FAIL - HTTP 403
-Red Cliff Band of Lake Superior Chippewa: 7 found
+Menominee Indian Tribe of Wisconsin: FETCH FAIL - HTTPSConnectionPool(host='www.menominee-nsn.gov', port=443): Max retries exceeded with url: /BusinessPages/RequestForProposals (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.menominee-nsn.gov', port=443) at 0x7f01ebce5e20>, 'Connection to www.menominee-nsn.gov timed out. (connect timeout=30)'))
+Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
+Red Cliff Band of Lake Superior Chippewa: 6 found
 Sokaogon Chippewa Community (Mole Lake): 3 found
 St. Croix Chippewa Indians of Wisconsin: 0 found
 Stockbridge-Munsee Community: 2 found
