@@ -1,7 +1,7 @@
-Run at 2026-07-08T12:20:36
+Run at 2026-07-09T13:48:33
 Tribes scraped: 35
-Total solicitations found: 62
-New since last run: 1
+Total solicitations found: 64
+New since last run: 9
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 1 found
@@ -10,12 +10,12 @@ Hannahville Indian Community: 0 found
 Keweenaw Bay Indian Community: 3 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
 Little River Band of Ottawa Indians: 2 found
-Little Traverse Bay Bands of Odawa Indians: 2 found
+Little Traverse Bay Bands of Odawa Indians: 1 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 4 found
 Saginaw Chippewa Indian Tribe of Michigan: 7 found
-Sault Ste. Marie Tribe of Chippewa Indians: EXTRACT ERROR - could not parse JSON from the model response
+Sault Ste. Marie Tribe of Chippewa Indians: 5 found
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 5 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
 Fond du Lac Band of Minnesota Chippewa Tribe: 0 found
@@ -28,7 +28,7 @@ Red Lake Band of Chippewa Indians: 1 found
 Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
 White Earth Band of Minnesota Chippewa Tribe: 0 found
-Bad River Band of the Lake Superior Tribe of Chippewa Indians: 5 found
+Bad River Band of the Lake Superior Tribe of Chippewa Indians: 3 found
 Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 1 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 2 found
@@ -37,5 +37,5 @@ Menominee Indian Tribe of Wisconsin: 6 found
 Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
 Red Cliff Band of Lake Superior Chippewa: 6 found
 Sokaogon Chippewa Community (Mole Lake): 1 found
-St. Croix Chippewa Indians of Wisconsin: 0 found
+St. Croix Chippewa Indians of Wisconsin: FETCH FAIL - HTTP 429
 Stockbridge-Munsee Community: 3 found
