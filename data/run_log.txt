@@ -1,6 +1,6 @@
-Run at 2026-08-25T11:25:00
+Run at 2026-08-26T11:27:06
 Tribes scraped: 35
-Total solicitations found: 70
+Total solicitations found: 69
 New since last run: 5
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
@@ -9,7 +9,7 @@ Grand Traverse Band of Ottawa and Chippewa Indians: 0 found
 Hannahville Indian Community: 0 found
 Keweenaw Bay Indian Community: 2 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
-Little River Band of Ottawa Indians: 2 found
+Little River Band of Ottawa Indians: 1 found
 Little Traverse Bay Bands of Odawa Indians: 8 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
@@ -22,7 +22,7 @@ Fond du Lac Band of Minnesota Chippewa Tribe: 0 found
 Grand Portage Band of Minnesota Chippewa Tribe: 1 found
 Leech Lake Band of Ojibwe: 1 found
 Lower Sioux Indian Community in Minnesota: 1 found
-Mille Lacs Band of Ojibwe: 7 found
+Mille Lacs Band of Ojibwe: 6 found
 Prairie Island Indian Community: 1 found
 Red Lake Band of Chippewa Indians: 1 found
 Shakopee Mdewakanton Sioux Community: 0 found
@@ -32,10 +32,10 @@ Bad River Band of the Lake Superior Tribe of Chippewa Indians: 5 found
 Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 4 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 2 found
-Lac du Flambeau Band of Lake Superior Chippewa: 0 found
-Menominee Indian Tribe of Wisconsin: 7 found
+Lac du Flambeau Band of Lake Superior Chippewa: 1 found
+Menominee Indian Tribe of Wisconsin: 4 found
 Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
-Red Cliff Band of Lake Superior Chippewa: 3 found
+Red Cliff Band of Lake Superior Chippewa: 5 found
 Sokaogon Chippewa Community (Mole Lake): 1 found
 St. Croix Chippewa Indians of Wisconsin: 0 found
-Stockbridge-Munsee Community: 0 found
+Stockbridge-Munsee Community: 1 found
