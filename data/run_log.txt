@@ -1,7 +1,7 @@
-Run at 2026-09-01T15:24:50
+Run at 2026-09-02T14:58:15
 Tribes scraped: 35
 Total solicitations found: 59
-New since last run: 0
+New since last run: 1
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 0 found
 Bay Mills Indian Community: 1 found
@@ -14,14 +14,14 @@ Little Traverse Bay Bands of Odawa Indians: 5 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 3 found
-Saginaw Chippewa Indian Tribe of Michigan: 7 found
+Saginaw Chippewa Indian Tribe of Michigan: 9 found
 Sault Ste. Marie Tribe of Chippewa Indians: 4 found
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 2 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
 Fond du Lac Band of Minnesota Chippewa Tribe: 0 found
 Grand Portage Band of Minnesota Chippewa Tribe: 1 found
 Leech Lake Band of Ojibwe: 1 found
-Lower Sioux Indian Community in Minnesota: 1 found
+Lower Sioux Indian Community in Minnesota: FETCH FAIL - HTTP 404
 Mille Lacs Band of Ojibwe: 3 found
 Prairie Island Indian Community: 1 found
 Red Lake Band of Chippewa Indians: 1 found
@@ -29,13 +29,13 @@ Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
 White Earth Band of Minnesota Chippewa Tribe: 0 found
 Bad River Band of the Lake Superior Tribe of Chippewa Indians: 5 found
-Forest County Potawatomi Community: FETCH FAIL - HTTPSConnectionPool(host='www.fcpotawatomi.com', port=443): Max retries exceeded with url: /government/purchasing/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fcpotawatomi.com', port=443) at 0x7fe5aa00dc70>, 'Connection to www.fcpotawatomi.com timed out. (connect timeout=30)'))
+Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 4 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 3 found
 Lac du Flambeau Band of Lake Superior Chippewa: 1 found
 Menominee Indian Tribe of Wisconsin: 4 found
 Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
-Red Cliff Band of Lake Superior Chippewa: 5 found
+Red Cliff Band of Lake Superior Chippewa: 4 found
 Sokaogon Chippewa Community (Mole Lake): 1 found
 St. Croix Chippewa Indians of Wisconsin: FETCH FAIL - HTTP 429
 Stockbridge-Munsee Community: 0 found
