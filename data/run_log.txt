@@ -1,9 +1,9 @@
-Run at 2026-09-07T16:17:38
+Run at 2026-09-08T14:54:02
 Tribes scraped: 35
-Total solicitations found: 51
+Total solicitations found: 46
 New since last run: 0
 
-Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 0 found
+Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): FETCH FAIL - HTTP 403
 Bay Mills Indian Community: 0 found
 Grand Traverse Band of Ottawa and Chippewa Indians: 0 found
 Hannahville Indian Community: 0 found
@@ -33,7 +33,7 @@ Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 4 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 3 found
 Lac du Flambeau Band of Lake Superior Chippewa: 1 found
-Menominee Indian Tribe of Wisconsin: 5 found
+Menominee Indian Tribe of Wisconsin: FETCH FAIL - HTTPSConnectionPool(host='www.menominee-nsn.gov', port=443): Max retries exceeded with url: /BusinessPages/RequestForProposals (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.menominee-nsn.gov', port=443) at 0x7f8eb86b06e0>, 'Connection to www.menominee-nsn.gov timed out. (connect timeout=30)'))
 Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
 Red Cliff Band of Lake Superior Chippewa: 3 found
 Sokaogon Chippewa Community (Mole Lake): 1 found
