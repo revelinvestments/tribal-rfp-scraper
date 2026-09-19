@@ -1,7 +1,7 @@
-Run at 2026-09-18T14:47:25
+Run at 2026-09-19T14:10:57
 Tribes scraped: 35
 Total solicitations found: 50
-New since last run: 2
+New since last run: 0
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
