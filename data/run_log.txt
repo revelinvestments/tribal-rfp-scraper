@@ -1,7 +1,7 @@
-Run at 2026-09-21T16:47:44
+Run at 2026-09-22T15:25:39
 Tribes scraped: 35
-Total solicitations found: 51
-New since last run: 2
+Total solicitations found: 49
+New since last run: 1
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
@@ -28,7 +28,7 @@ Red Lake Band of Chippewa Indians: 0 found
 Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
 White Earth Band of Minnesota Chippewa Tribe: 0 found
-Bad River Band of the Lake Superior Tribe of Chippewa Indians: 4 found
+Bad River Band of the Lake Superior Tribe of Chippewa Indians: 2 found
 Forest County Potawatomi Community: 0 found
 Ho-Chunk Nation: 4 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 3 found
