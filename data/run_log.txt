@@ -1,7 +1,7 @@
-Run at 2026-10-01T17:17:06
+Run at 2026-10-02T16:30:14
 Tribes scraped: 35
-Total solicitations found: 44
-New since last run: 1
+Total solicitations found: 54
+New since last run: 5
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
@@ -10,12 +10,12 @@ Hannahville Indian Community: 0 found
 Keweenaw Bay Indian Community: 2 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
 Little River Band of Ottawa Indians: 1 found
-Little Traverse Bay Bands of Odawa Indians: FETCH FAIL - HTTPSConnectionPool(host='ltbbodawa-nsn.gov', port=443): Read timed out. (read timeout=30)
+Little Traverse Bay Bands of Odawa Indians: EXTRACT ERROR - could not parse JSON from the model response
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
-Pokagon Band of Potawatomi Indians: 3 found
+Pokagon Band of Potawatomi Indians: 1 found
 Saginaw Chippewa Indian Tribe of Michigan: 9 found
-Sault Ste. Marie Tribe of Chippewa Indians: EXTRACT ERROR - could not parse JSON from the model response
+Sault Ste. Marie Tribe of Chippewa Indians: 11 found
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 2 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
 Fond du Lac Band of Minnesota Chippewa Tribe: 0 found
@@ -23,7 +23,7 @@ Grand Portage Band of Minnesota Chippewa Tribe: 2 found
 Leech Lake Band of Ojibwe: 1 found
 Lower Sioux Indian Community in Minnesota: FETCH FAIL - HTTP 404
 Mille Lacs Band of Ojibwe: 2 found
-Prairie Island Indian Community: 1 found
+Prairie Island Indian Community: 2 found
 Red Lake Band of Chippewa Indians: 0 found
 Shakopee Mdewakanton Sioux Community: 0 found
 Upper Sioux Community: FETCH FAIL - HTTP 403
@@ -37,5 +37,5 @@ Menominee Indian Tribe of Wisconsin: 4 found
 Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
 Red Cliff Band of Lake Superior Chippewa: 3 found
 Sokaogon Chippewa Community (Mole Lake): 0 found
-St. Croix Chippewa Indians of Wisconsin: 0 found
+St. Croix Chippewa Indians of Wisconsin: FETCH FAIL - HTTP 429
 Stockbridge-Munsee Community: 1 found
