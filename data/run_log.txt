@@ -1,7 +1,7 @@
-Run at 2026-10-05T19:36:45
+Run at 2026-10-06T17:03:50
 Tribes scraped: 35
 Total solicitations found: 52
-New since last run: 2
+New since last run: 0
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
@@ -33,7 +33,7 @@ Ho-Chunk Nation: 2 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 3 found
 Lac du Flambeau Band of Lake Superior Chippewa: 0 found
 Menominee Indian Tribe of Wisconsin: 4 found
-Oneida Nation of Wisconsin: FETCH FAIL - HTTP 403
+Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
 Red Cliff Band of Lake Superior Chippewa: 1 found
 Sokaogon Chippewa Community (Mole Lake): 0 found
 St. Croix Chippewa Indians of Wisconsin: 0 found
