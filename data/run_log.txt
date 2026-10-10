@@ -1,7 +1,7 @@
-Run at 2026-10-09T17:19:08
+Run at 2026-10-10T16:07:54
 Tribes scraped: 35
-Total solicitations found: 65
-New since last run: 3
+Total solicitations found: 63
+New since last run: 1
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 0 found
@@ -10,11 +10,11 @@ Hannahville Indian Community: 0 found
 Keweenaw Bay Indian Community: 2 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
 Little River Band of Ottawa Indians: 1 found
-Little Traverse Bay Bands of Odawa Indians: 10 found
+Little Traverse Bay Bands of Odawa Indians: 9 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 2 found
-Saginaw Chippewa Indian Tribe of Michigan: 10 found
+Saginaw Chippewa Indian Tribe of Michigan: 9 found
 Sault Ste. Marie Tribe of Chippewa Indians: 11 found
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 2 found
 Fond du Lac Band of Minnesota Chippewa Tribe: FETCH FAIL - HTTP 403
