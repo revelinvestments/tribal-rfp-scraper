@@ -1,7 +1,7 @@
-Run at 2026-10-18T14:18:05
+Run at 2026-10-19T17:20:55
 Tribes scraped: 35
-Total solicitations found: 51
-New since last run: 0
+Total solicitations found: 53
+New since last run: 1
 
 Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki): 1 found
 Bay Mills Indian Community: 1 found
@@ -9,17 +9,17 @@ Grand Traverse Band of Ottawa and Chippewa Indians: 0 found
 Hannahville Indian Community: 0 found
 Keweenaw Bay Indian Community: 2 found
 Lac Vieux Desert Band of Lake Superior Chippewa Indians: 0 found
-Little River Band of Ottawa Indians: 1 found
-Little Traverse Bay Bands of Odawa Indians: 8 found
+Little River Band of Ottawa Indians: 2 found
+Little Traverse Bay Bands of Odawa Indians: 9 found
 Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake): 3 found
 Nottawaseppi Huron Band of the Potawatomi: 0 found
 Pokagon Band of Potawatomi Indians: 2 found
-Saginaw Chippewa Indian Tribe of Michigan: 7 found
+Saginaw Chippewa Indian Tribe of Michigan: 9 found
 Sault Ste. Marie Tribe of Chippewa Indians: 1 found
 Bois Forte Band (Nett Lake) of Minnesota Chippewa Tribe: 1 found
 Fond du Lac Band of Minnesota Chippewa Tribe: JS WARNING - little text returned
 Fond du Lac Band of Minnesota Chippewa Tribe: 0 found
-Grand Portage Band of Minnesota Chippewa Tribe: 2 found
+Grand Portage Band of Minnesota Chippewa Tribe: FETCH FAIL - HTTPSConnectionPool(host='www.grandportageband.com', port=443): Max retries exceeded with url: /public-notices/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.grandportageband.com'. (_ssl.c:1010)")))
 Leech Lake Band of Ojibwe: 1 found
 Lower Sioux Indian Community in Minnesota: FETCH FAIL - HTTP 404
 Mille Lacs Band of Ojibwe: 3 found
@@ -34,7 +34,7 @@ Ho-Chunk Nation: 3 found
 Lac Courte Oreilles Band of Lake Superior Chippewa: 1 found
 Lac du Flambeau Band of Lake Superior Chippewa: FETCH FAIL - HTTP 404
 Menominee Indian Tribe of Wisconsin: 4 found
-Oneida Nation of Wisconsin: FETCH FAIL - HTTP 404
+Oneida Nation of Wisconsin: FETCH FAIL - HTTP 403
 Red Cliff Band of Lake Superior Chippewa: 1 found
 Sokaogon Chippewa Community (Mole Lake): 0 found
 St. Croix Chippewa Indians of Wisconsin: 0 found
